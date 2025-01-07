@@ -14,5 +14,3 @@
 - Tuning hyperparameters of all the optimization models to see if it improves performance
 - Ultimately picked random forest as the best classifier based on the F1 score which is a harmonic mean of the accuracy and precision scores
 
-### 🔎 Here is a link to the project presentation
-[Project Presentation](https://drive.google.com/file/d/1iScEsqkYanDBBxlSoBuAynwmjPnW7gAW/view?usp=share_link)
